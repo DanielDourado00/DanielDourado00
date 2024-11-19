@@ -1,3 +1,7 @@
+<p align="center">👋 Olá! Eu sou Daniel Dourado<br>💻 Estudante de Ciência da Computação na Universidade Estadual de Londrina (UEL)<br>🎓 Atualmente no sexto período, explorando áreas como desenvolvimento de software e programação voltada para agricultura de precisão.</p>
+
+###
+
 <img src="https://raw.githubusercontent.com/DanielDourado00/DanielDourado00/output/snake.svg" alt="Snake animation" />
 
 ###
@@ -25,7 +29,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="www.linkedin.com/in/daniiell-dourado-77595a247" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
